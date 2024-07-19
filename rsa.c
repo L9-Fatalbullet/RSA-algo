@@ -175,7 +175,7 @@ int main(){
     printf("*                                                 *\n");
     printf("*       RSA (Encryption/ Decryption) Program      *\n");
     printf("*                 by Fatalbullet                  *\n");
-    printf("*                                                 *\n");
+    printf("* https://github.com/Ayoublee/RSA-encyrption-decryption  *\n");
     printf("*                                                 *\n");
     printf("***************************************************\n");
 
